@@ -1,1 +1,1 @@
-# exercicios_repeti-o_js
+- Exercícios de JavaScript utilizando laços de repetição.
